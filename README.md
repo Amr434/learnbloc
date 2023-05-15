@@ -1,6 +1,6 @@
 # learnbloc
 
-A new Flutter project.
+Learn the concept of bloc and cubit
 
 ## Getting Started
 
